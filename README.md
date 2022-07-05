@@ -1,5 +1,4 @@
 # mget
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/StevenCyb/mget/ci-test?label=Tests&logo=GitHub)
 ![GitHub](https://img.shields.io/github/license/StevenCyb/mget)
 
 Simple client request, parse and filter metrics from api endpoint.
