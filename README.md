@@ -87,13 +87,6 @@ result := mget.NewClient().
 	FilterByType(mget.SummaryType).
 	Do(context.Background())
 ```
-### By metric type
-```golang
-result := mget.NewClient().
-	Endpoint(endpoint).
-	FilterByType(mget.GaugeType).
-	Do(context.Background())
-```
 ### By metric labels
 ```golang
 result := mget.NewClient().
