@@ -1,7 +1,7 @@
 # mget
 ![GitHub](https://img.shields.io/github/license/StevenCyb/mget)
 
-Simple client request, parse and filter metrics from api endpoint.
+Simple client to request, parse and filter metrics from api endpoint.
 This package is not production ready and will probably not be developed further.
 
 ## Just request metrics
